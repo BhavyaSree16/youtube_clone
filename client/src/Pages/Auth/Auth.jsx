@@ -51,7 +51,7 @@ function Auth({ User, setAuthBtn, setEditCreateChanelBtn }) {
           <div>
             <GoogleLogout
               clientId={
-                "994875294110-4cip528f67h7dh9lhf0np50mi2fgpr1l.apps.googleusercontent.com"
+                "555215111551-odqllmqb3h2er1dm9d5uqka89hjicukm.apps.googleusercontent.com"
               }
               onLogoutSuccess={onLogOutSuccess}
               render={(renderProps) => (
